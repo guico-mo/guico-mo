@@ -6,5 +6,5 @@
 
 ## PT-BR
 - 👋 Oi, sou Guilherme Correia.
-- 👨🏻‍💻 Atualmente cursando Analíse de Sistemas em Centro Universitário Nobre.
-- 📚 Amo o mundo da tecnologia e aprender novas coisas para melhorar minhas habilidades.
+- 👨🏻‍💻 Atualmente cursando Analíse de Sistemas no Centro Universitário Nobre.
+- 📚 Amo o mundo da tecnologia e aprender novas coisas para aprimorar minhas habilidades.
