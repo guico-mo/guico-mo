@@ -1,10 +1,43 @@
-## EN
-- 👋 Hi, I'm Guilherme Correia.
-- 📍 I'm from Brazil.
-- 👨🏻‍💻 Currently pursuing Systems Analyses at Nobre University Center.
-- 📚 Love the world of technologies and to learn new things to improve my skills.
+# Hi there! 👋
 
-## PT-BR
-- 👋 Oi, sou Guilherme Correia.
-- 👨🏻‍💻 Atualmente cursando Analíse de Sistemas no Centro Universitário Nobre.
-- 📚 Amo o mundo da tecnologia e aprender novas coisas para aprimorar minhas habilidades.
+Hello, I'm Guilherme Correia, a guy immersed in the world of technology.
+
+## 🌎 About Me
+
+- 📍 From Brazil.
+- 👨🏻‍💻 Currently pursuing a degree in Systems Analysis at Nobre University Center.
+
+## 🚀 What I Do
+
+- 🌐 **Web Development:** Building websites and web applications with a lasting impact.
+- 🛠️ **Problem Solver:** Solving real-world problems through logical and creative thinking.
+
+### Skilled with:
+
+1. **Frontend Development:**
+   - HTML
+   - CSS
+   - JavaScript
+
+2. **Backend Development:**
+   - Java
+
+3. **Databases:**
+   - MySQL
+   - PostgreSQL
+
+4. **Containerization:**
+   - Docker
+
+5. **Other Tools and Technologies:**
+   - Git
+   - Linux
+   - Windows
+
+## 📫 Let's Connect!
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat!
+
+Thanks for stopping by! 🚀
+
+---
