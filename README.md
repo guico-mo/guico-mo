@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Guilherme Correia, a guy immersed in the world of technology.
+I'm Guilherme Correia, into all tech things.
 
 ## 🌎 About Me
 - 📍 From Brazil.
@@ -11,7 +11,7 @@ I'm Guilherme Correia, a guy immersed in the world of technology.
 2. **Backend Development:**
    - Java
 3. **Databases:**
-   - MySQL, PostgreSQL
+   - MySQL & PostgreSQL
 4. **Other Tools and Technologies:**
    - Docker
    - Git
@@ -19,5 +19,3 @@ I'm Guilherme Correia, a guy immersed in the world of technology.
 ## 📫 Let's Connect!
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat!
 Thanks for stopping by! 🚀
-
----
