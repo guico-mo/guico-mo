@@ -1,23 +1,17 @@
 # Hi there! 👋
-
-Hello, I'm Guilherme Correia, a guy immersed in the world of technology.
+I'm Guilherme Correia, a guy immersed in the world of technology.
 
 ## 🌎 About Me
-
 - 📍 From Brazil.
 - 👨🏻‍💻 Currently pursuing a degree in Systems Analysis at Nobre University Center.
 
 ## 🚀 What I Do
-
 - 🌐 **Web Development:** Building websites and web applications with a lasting impact.
 - 🛠️ **Problem Solver:** Solving real-world problems through logical and creative thinking.
 
 ### Skilled with:
-
 1. **Frontend Development:**
-   - HTML
-   - CSS
-   - JavaScript
+   - HTML, CSS, JavaScript
 
 2. **Backend Development:**
    - Java
@@ -26,10 +20,8 @@ Hello, I'm Guilherme Correia, a guy immersed in the world of technology.
    - MySQL
    - PostgreSQL
 
-4. **Containerization:**
+4. **Other Tools and Technologies:**
    - Docker
-
-5. **Other Tools and Technologies:**
    - Git
    - Linux
    - Windows
