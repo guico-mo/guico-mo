@@ -5,11 +5,7 @@ I'm Guilherme Correia, a guy immersed in the world of technology.
 - 📍 From Brazil.
 - 👨🏻‍💻 Currently pursuing a degree in Systems Analysis at Nobre University Center.
 
-## 🚀 What I Do
-- 🌐 **Web Development:** Building websites and web applications with a lasting impact.
-- 🛠️ **Problem Solver:** Solving real-world problems through logical and creative thinking.
-
-### Skilled with:
+## 🚀 Skilled with
 1. **Frontend Development:**
    - HTML, CSS, JavaScript
 
